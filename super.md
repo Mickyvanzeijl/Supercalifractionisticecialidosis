@@ -1,6 +1,23 @@
-# Super
 
-![Harrold zegt paard](http://www.woefenhinnik.nl/upload/20/photos/fries_paard.jpg)
+# Dilemma van Dinsdag
+![plaatje](plaatje.jpg)
+
+#### INTERMEZZoooooooo
+
+[een nutteloze website](http://www.theuselessweb.com/)
+
+
+
+
+
+
+
+*Nu door naar de volgende vraag*
+
+# Harold's paard
+
+![Harold zegt paard](http://www.woefenhinnik.nl/upload/20/photos/fries_paard.jpg)
+
 
 ## Een test
 
@@ -14,14 +31,7 @@ Maak een keuze:
 
 Dat was een moeilijke he?
 
-#### Nu door naar de volgende vraag
-
-*INTERMEZZoooooooo*
-
-[een nutteloze website](http://www.theuselessweb.com/)
 
 Nummer 1 | Nummer 2 | Nummer 3
 ------------ | ------------- | ------------
 A | B  | C
-
-
